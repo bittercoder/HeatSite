@@ -14,7 +14,8 @@ namespace HeatSite
                 ".svn",
                 "_svn",
                 "resharper",
-                "Cassini.dll"
+                "Cassini.dll",
+                "node_modules\\"
             };
 
         static readonly string[] _extensionBlackList = new[]
